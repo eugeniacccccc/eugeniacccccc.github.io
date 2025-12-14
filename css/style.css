@@ -5,3 +5,28 @@ h1{
 	color: brown;
 	font-family: Bubblegum Sans;
 }
+.right-colum{
+	background-color:FFC94F ;
+}
+.bombos-slay{
+	background-color:FFC94F ;
+}
+.niaou-nai{
+	background-color: F0ED7A;
+}
+.enhe-refile{
+	background-color: FCA65F;
+}
+p{
+	font-family: italic;
+}
+
+.big-image{
+	height: 100%;
+	width: auto;
+	overflow: hidden;
+}
+
+.row {
+	padding: 1em;
+}
